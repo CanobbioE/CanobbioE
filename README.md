@@ -1,5 +1,5 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourHandle-blue?logo=linkedin)](https://www.linkedin.com/in/canobbioe/)
-[![Blog](https://img.shields.io/badge/Blog-YourBlogName-brightgreen?logo=ghost)](https://canobbioe.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CanobbioE-blue?logo=linkedin)](https://www.linkedin.com/in/canobbioe/)
+[![Blog](https://img.shields.io/badge/Blog-CanobbioE.com-brightgreen?logo=ghost)](https://canobbioe.com)
 
 # Hi there, I’m Edoardo 👋
 
