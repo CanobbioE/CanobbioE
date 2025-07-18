@@ -5,7 +5,9 @@
 
 _I’m a Software Engineer on it's way to become a great Software Architect. Think of me as a professional button presser who happens to speak Go._
 
-### About me
+---
+
+## About me
 
 I'm currently working as a freelance Senior Backend Developer.  
 My main client is [IndyKite](https://www.indykite.com/) a Norwegian startup on its way to transform enterprise AI with graph-powered solutions.  
