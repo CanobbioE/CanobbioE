@@ -1,5 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CanobbioE-blue?logo=linkedin)](https://www.linkedin.com/in/canobbioe/)
-[![Blog](https://img.shields.io/badge/Blog-CanobbioE.com-brightgreen?logo=ghost)](https://canobbioe.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/canobbioe/)
+[![Personal Blog](https://img.shields.io/badge/Personal%20Blog-CanobbioE.com-5e6d80?logo=hugo)](https://canobbioe.com)
+[![Resume](https://img.shields.io/badge/Resume-Edoardo%20Canobbio.pdf-238636?logo=googledocs&logoColor=238636)](https://canobbioe.com/Canobbio%20Edoardo%20-%20CV.pdf)
 
 # Hi there, I’m Edoardo 👋
 
@@ -36,7 +37,7 @@ Before that, I was employed for [Ti&M](https://www.ti8m.com/), the Swiss leader 
   - TDD (when applicable)
   - Leave the code better than you found it
 
-For more professional achievement, check out my CV!
+For more professional achievement, check out my resume!
 
 ---
 
