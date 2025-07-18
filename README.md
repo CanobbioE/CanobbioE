@@ -5,9 +5,11 @@
 
 _I’m a Software Engineer on it's way to become a great Software Architect. Think of me as a professional button presser who happens to speak Go._
 
+### About me
+
 I'm currently working as a freelance Senior Backend Developer.  
 My main client is [IndyKite](https://www.indykite.com/) a Norwegian startup on its way to transform enterprise AI with graph-powered solutions.  
-I've previously worked with [Glofox](https://www.glofox.com/), handling the integration with external sysetms like Stripe, Twilio, Customer API and many more.
+Previously, I've worked with [Glofox](https://www.glofox.com/), handling the integration with external sysetms like Stripe, Twilio, Customer API and many more.
 Before that, I was employed for [Ti&M](https://www.ti8m.com/), the Swiss leader firm in digitalization projects and products, working as a full-stack developer.
 
 ---
