@@ -3,7 +3,12 @@
 
 # Hi there, I’m Edoardo 👋
 
-_I’m a Senior Software Engineer with big dreams. Think of me as a professional button presser who happens to speak Go._
+_I’m a Software Engineer on it's way to become a great Software Architect. Think of me as a professional button presser who happens to speak Go._
+
+I'm currently working as a freelance Senior Backend Developer.  
+My main client is [IndyKite](https://www.indykite.com/) a Norwegian startup on its way to transform enterprise AI with graph-powered solutions.  
+I've previously worked with [Glofox](https://www.glofox.com/), handling the integration with external sysetms like Stripe, Twilio, Customer API and many more.
+Before that, I was employed for [Ti&M](https://www.ti8m.com/), the Swiss leader firm in digitalization projects and products, working as a full-stack developer.
 
 ---
 
@@ -27,24 +32,22 @@ _I’m a Senior Software Engineer with big dreams. Think of me as a professional
   - TDD (when applicable)
   - Leave the code better than you found it
 
-For more professional achievement, check out my CV.
+For more professional achievement, check out my CV!
 
 ---
-
-TODO: add links!!!!
 
 ## Projects & Contributions
 
-- **Reelo.info** - custom ELO engine for math games  
+- **[Reelo.info](https://reelo.info/)** - custom ELO engine for math games  
 - **Advent of Code** - annual puzzle solver  
-- **AI Stock Assistant** - prototype for trading insights
+- **[AI Stock Assistant](https://github.com/CanobbioE/algo-trading)** - prototype for an AI assistant providing trading insights
 
 ---
 
-## GitHub (public) Stats
+## GitHub Stats
 
-<!-- GitHub Readme Stats -->
-![CanobbioE’s Public GitHub stats](https://github-readme-stats.vercel.app/api?username=CanobbioE&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true)
+<img align="center" src="https://github-readme-stats-rho-eight-56.vercel.app/api?username=CanobbioE&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true" />
+<!--     <img height=270 align="center" src="https://github-readme-stats-rho-eight-56.vercel.app/api/top-langs?username=CanobbioE&layout=compact&langs_count=8&theme=transparent&exclude_repo=reelo&hide=css,html" /> -->
 
 ---
 
