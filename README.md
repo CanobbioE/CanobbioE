@@ -50,9 +50,13 @@ For more professional achievement, check out my resume!
 ---
 
 ## GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="height: 200px" align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=CanobbioE&include_orgs=true&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img style="height: 200px" align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=CanobbioE&include_orgs=true&layout=compact&langs_count=8&theme=transparent&exclude_repo=reelo" />
+</a>
 
-<img align="center" src="https://github-readme-stats-rho-eight-56.vercel.app/api?username=CanobbioE&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true" />
-<!--     <img height=270 align="center" src="https://github-readme-stats-rho-eight-56.vercel.app/api/top-langs?username=CanobbioE&layout=compact&langs_count=8&theme=transparent&exclude_repo=reelo&hide=css,html" /> -->
 
 ---
 
