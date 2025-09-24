@@ -4,7 +4,7 @@
 
 # Hi there, I’m Edoardo 👋
 
-_I’m a Software Engineer on it's way to become a great Software Architect. Think of me as a professional button presser who happens to speak Go._
+_I’m a Senior Software Engineer on it's way to become a great Software Architect. Think of me as a professional button presser who happens to love Go._
 
 ---
 
@@ -12,7 +12,7 @@ _I’m a Software Engineer on it's way to become a great Software Architect. Thi
 
 I'm currently working as a freelance Senior Backend Developer.  
 My main client is [IndyKite](https://www.indykite.com/) a Norwegian startup on its way to transform enterprise AI with graph-powered solutions.  
-Previously, I've worked with [Glofox](https://www.glofox.com/), handling the integration with external sysetms like Stripe, Twilio, Customer API and many more.
+Previously, I've worked with [ABC Glofox](https://www.glofox.com/), the all-in-one fitness management software.
 Before that, I was employed for [Ti&M](https://www.ti8m.com/), the Swiss leader firm in digitalization projects and products, working as a full-stack developer.
 
 ---
@@ -37,7 +37,7 @@ Before that, I was employed for [Ti&M](https://www.ti8m.com/), the Swiss leader 
   - TDD (when applicable)
   - Leave the code better than you found it
 
-For more professional achievement, check out my resume!
+For more professional achievement, [check out my resume](https://canobbioe.com/resume/)!
 
 ---
 
@@ -46,6 +46,7 @@ For more professional achievement, check out my resume!
 - **[Reelo.info](https://reelo.info/)** - custom ELO engine for math games  
 - **Advent of Code** - annual puzzle solver  
 - **[AI Stock Assistant](https://github.com/CanobbioE/algo-trading)** - prototype for an AI assistant providing trading insights
+- **[poly-route](https://github.com/CanobbioE/poly-route)** - pluggable multi-protocol transparent reverse proxy with multi-region support
 
 ---
 
