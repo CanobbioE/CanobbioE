@@ -11,7 +11,7 @@ _I’m a Senior Software Engineer on it's way to become a great Software Archite
 ## About me
 
 I'm currently working as a freelance Senior Backend Developer.  
-My main client is [IndyKite](https://www.indykite.com/) a Norwegian startup on its way to transform enterprise AI with graph-powered solutions.  
+My main client is [IndyKite](https://www.indykite.com/) a Norwegian startup that offers the first System of Intelligence built on a live context graph.  
 Previously, I've worked with [ABC Glofox](https://www.glofox.com/), the all-in-one fitness management software.  
 Before that, I was employed for [Ti&M](https://www.ti8m.com/), the Swiss leader firm in digitalization projects and products, working as a full-stack developer.
 
@@ -50,16 +50,6 @@ For more professional achievement, [check out my resume](https://canobbioe.com/r
 
 ---
 
-## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="height: 200px" align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=CanobbioE&include_orgs=true&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img style="height: 200px" align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=CanobbioE&include_orgs=true&layout=compact&langs_count=8&theme=transparent&exclude_repo=reelo" />
-</a>
-
-
----
 
 ## Get in Touch
 
