@@ -43,6 +43,7 @@ For more professional achievement, [check out my resume](https://canobbioe.com/r
 
 ## Projects & Contributions
 
+- **[EBA](https://b1aab.ai/)** - the complete graph of Bitcoin's on-chain economy built for machine learning
 - **[Reelo.info](https://reelo.info/)** - custom ELO engine for math games  
 - **Advent of Code** - annual puzzle solver  
 - **[AI Stock Assistant](https://github.com/CanobbioE/algo-trading)** - prototype for an AI assistant providing trading insights
